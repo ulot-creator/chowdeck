@@ -1,0 +1,13 @@
+*{
+  /* outline:1px solid red; */
+}
+
+body{
+  height: 100vh;
+  width: 100%;
+  background-image: url(../images/chowdeck2.jpg);
+  background-size: cover;
+  background-clip: border-box;
+  background-repeat: no-repeat;
+  /* background-position: top; */
+}
